@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #e8f5e9;
+}
+
+h1 {
+  background-color: #81c784;
+  padding: 25px;
+  border: 5px dotted rgba(104, 240, 173, 0.5);
+  color: #1b5e20;
+  border-radius: 30px;
+  width: 300px;
+}
